@@ -27,4 +27,4 @@ Bot.on('ready', () => {
     console.log(`${Bot.user.tag} is successfully logged in!`);
 })
 
-Bot.login(process.env.Bot);
+Bot.login(process.env.BOT);
